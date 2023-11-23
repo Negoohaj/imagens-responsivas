@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto; /* Centraliza a imagem na página, opcional */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Remove o espaçamento extra sob a imagem */
+}
